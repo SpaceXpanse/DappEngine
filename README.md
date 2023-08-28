@@ -1,6 +1,6 @@
 ![GDevelop logo](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20banner.png "GDevelop logo")
 
-GDevelop is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
+SpeXEngine is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop, and the web. SpeXEngine is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
 
 ![The GDevelop editor when editing a game level](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20screenshot.png "The GDevelop editor when editing a game level")
 
