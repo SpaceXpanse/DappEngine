@@ -1,6 +1,29 @@
+# SpeXEngine  
+## A versatile tool for creating 2D and 3D games with ease
+
 ![GDevelop logo](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20banner.png "GDevelop logo")
 
 SpeXEngine is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop, and the web. SpeXEngine is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
+
+The main features of GDevelop:
+
+Objects: In GDevelop, everything on the screen is an object. This includes the playable character, enemies, and parts of the environment.
+
+Events and Control Flow: GDevelop uses events to define the logic of your game. You can create conditions and actions to control how objects interact and behave.
+
+Variables: GDevelop allows you to use variables to store and manipulate data during gameplay. This gives you flexibility in creating dynamic and interactive experiences.
+
+Functions: GDevelop provides a powerful feature called "Events Function" or simply Function. Functions allow you to create your own actions, conditions, or expressions, making it easier to organize and reuse your game's events.
+
+Ready-to-Use Interface Elements: GDevelop includes a variety of pre-made objects such as buttons, switches, sliders, and more. This saves you time and effort by providing ready-to-use interface elements for your game.
+
+Extensions: GDevelop features are provided through extensions, allowing you to embed only the features you need in your game. This modular approach gives you flexibility in customizing your game development process.
+
+Cross-Platform Development: GDevelop is a cross-platform game development software. You can build games for mobile, desktop, and the web, making it easier to reach a wider audience.
+
+Open-Source and No-Code: GDevelop is an open-source, no-code game development software. It provides a user-friendly interface that doesn't require coding knowledge, making it accessible to beginners and experienced developers alike.
+
+It offers even more advanced features like tilemaps, physics engine, platformer engine, particle emitter, dialogue editor, leaderboards, pathfinding, and gamepad support. 
 
 ![The GDevelop editor when editing a game level](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20screenshot.png "The GDevelop editor when editing a game level")
 
