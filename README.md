@@ -1,5 +1,5 @@
 # SpeXEngine /WIP/ 
-## A versatile tool for creating 2D and 3D games with ease
+## A versatile tool for creating 2D and simple 3D games with ease
 
 <!-- ![SpeXEngine logo](https://raw.githubusercontent.com/4ian/SpeXEngine/master/newIDE/SpeXEngine%20banner.png "SpeXEngine logo") -->
 
