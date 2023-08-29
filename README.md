@@ -5,7 +5,7 @@
 
 SpeXEngine is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop, and the web. It is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
 
-### Main features of SpeXEngine:
+### Main features:
 
 - Objects: In SpeXEngine, everything on the screen is an object. This includes the playable character, enemies, and parts of the environment.
 
