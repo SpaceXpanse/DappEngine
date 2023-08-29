@@ -7,21 +7,21 @@ SpeXEngine is a full-featured, no-code, open-source game development software. Y
 
 ### Main features of SpeXEngine:
 
-Objects: In SpeXEngine, everything on the screen is an object. This includes the playable character, enemies, and parts of the environment.
+- Objects: In SpeXEngine, everything on the screen is an object. This includes the playable character, enemies, and parts of the environment.
 
-Events and Control Flow: SpeXEngine uses events to define the logic of your game. You can create conditions and actions to control how objects interact and behave.
+- Events and Control Flow: SpeXEngine uses events to define the logic of your game. You can create conditions and actions to control how objects interact and behave.
 
-Variables: SpeXEngine allows you to use variables to store and manipulate data during gameplay. This gives you flexibility in creating dynamic and interactive experiences.
+- Variables: SpeXEngine allows you to use variables to store and manipulate data during gameplay. This gives you flexibility in creating dynamic and interactive experiences.
 
-Functions: SpeXEngine provides a powerful feature called "Events Function" or simply Function. Functions allow you to create your own actions, conditions, or expressions, making it easier to organize and reuse your game's events.
+- Functions: SpeXEngine provides a powerful feature called "Events Function" or simply Function. Functions allow you to create your own actions, conditions, or expressions, making it easier to organize and reuse your game's events.
 
-Ready-to-Use Interface Elements: SpeXEngine includes a variety of pre-made objects such as buttons, switches, sliders, and more. This saves you time and effort by providing ready-to-use interface elements for your game.
+- Ready-to-Use Interface Elements: SpeXEngine includes a variety of pre-made objects such as buttons, switches, sliders, and more. This saves you time and effort by providing ready-to-use interface elements for your game.
 
-Extensions: SpeXEngine features are provided through extensions, allowing you to embed only the features you need in your game. This modular approach gives you flexibility in customizing your game development process.
+- Extensions: SpeXEngine features are provided through extensions, allowing you to embed only the features you need in your game. This modular approach gives you flexibility in customizing your game development process.
 
-Cross-Platform Development: SpeXEngine is a cross-platform game development software. You can build games for mobile, desktop, and the web, making it easier to reach a wider audience.
+- Cross-Platform Development: SpeXEngine is a cross-platform game development software. You can build games for mobile, desktop, and the web, making it easier to reach a wider audience.
 
-Open-Source and No-Code: SpeXEngine is an open-source, no-code game development software. It provides a user-friendly interface that doesn't require coding knowledge, making it accessible to beginners and experienced developers alike.
+- Open-Source and No-Code: SpeXEngine is an open-source, no-code game development software. It provides a user-friendly interface that doesn't require coding knowledge, making it accessible to beginners and experienced developers alike.
 
 It offers even more advanced features like tilemaps, physics engine, platformer engine, particle emitter, dialogue editor, leaderboards, pathfinding, and gamepad support. 
 
