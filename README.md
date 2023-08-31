@@ -3,7 +3,7 @@
 
 <!-- ![SpeXEngine logo](https://raw.githubusercontent.com/4ian/SpeXEngine/master/newIDE/SpeXEngine%20banner.png "SpeXEngine logo") -->
 
-SpaceXpanseEngine, or SpeXEngine for short, is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop, and the web. It is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
+SpaceXpanse Engine, or SpeXEngine for short, is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop, and the web. It is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
 
 ### Main features:
 
