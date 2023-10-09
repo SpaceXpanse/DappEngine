@@ -1,5 +1,5 @@
 # DappEngine /WIP/ 
-## A versatile tool for creating 2D and simple 3D games and other apps with ease
+## A versatile tool for creating 2D and simple 3D dapps with ease
 
 <!-- ![DappEngine logo](https://raw.githubusercontent.com/4ian/DappEngine/master/newIDE/DappEngine%20banner.png "DappEngine logo") -->
 
