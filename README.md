@@ -3,7 +3,7 @@
 
 <!-- ![DappEngine logo](https://raw.githubusercontent.com/4ian/DappEngine/master/newIDE/DappEngine%20banner.png "DappEngine logo") -->
 
-SpaceXpanse Decentralized Applications Development Engine /previous name SpeXEngine/, or DappEngine for short, is a full-featured, no-code, open-source development software. You can build games and other applications for mobile, desktop, and the web. It is fast and easy to use: the appe logic is built up using an intuitive and powerful event-based system.
+SpaceXpanse Decentralized Applications Development Engine, or DappEngine for short /known by its previous name SpeXEngine/, is a full-featured, no-code, open-source development software. You can build games and other applications for mobile, desktop, and the web. It is fast and easy to use: the app logic is built up using an intuitive and powerful event-based system.
 
 ### Main features:
 
